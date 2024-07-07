@@ -1,0 +1,18 @@
+[
+  {
+    "id": "r1",
+    "name": "restorant1",
+    "address": "example addres",
+    "cuisine": "french",
+    "website": "https:/hande.com",
+    "description": "So good."
+  },
+  {
+    "id": "r2",
+    "name": "restorant2",
+    "address": "example addres",
+    "cuisine": "mexican",
+    "website": "https:/example.com",
+    "description": "Delicious."
+  }
+]
